@@ -1,10 +1,14 @@
-# Wowchemy's Research Group Template for [Hugo](https://github.com/gohugoio/hugo)
+# Ecology SRM website
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+This is the code for creating the website for 
+## Content and contributing
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 5 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+## Site Technology 
 
-_[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs._
+This site uses the "Wowchemy Research Group" Template for [Hugo](https://github.com/gohugoio/hugo)
+
+https://wowchemy.com/user-stories/
+
 
 - 👉 [**Get Started**](https://wowchemy.com/templates/)
 - 📚 [View the **documentation**](https://wowchemy.com/docs/)
@@ -13,11 +17,6 @@ _[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful websit
 - 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
 - ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
 
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
 
 ## Ecosystem
 
@@ -34,4 +33,3 @@ Please replace the demo images with your own.
 - [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-research-group/readme?pixel)](https://github.com/igrigorik/ga-beacon)

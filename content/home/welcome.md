@@ -6,9 +6,9 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "Ecological Impacts of Potential Solar Radiation Management (SRM) Working Group"
 subtitle: ""
-hero_media: welcome.jpg
+hero_media: sai_ocean_effects.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+This website highlights collaborative and interdisciplinary research from members of a National Science Foundation funded [Workshop on ecological impacts of solar radiation management (SRM) geoengineering](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937699&HistoricalAwards=false). 
