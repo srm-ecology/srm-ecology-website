@@ -36,8 +36,12 @@ The goal of this workshop and its working group is to develop a research agenda 
 References
 ---
 
-Zarnetske, P.L., J. Gurevitch, J. Franklin, P. Groffman, C. Harrison, J. Hellmann, F. Hoffman, S. Kothari, A. Robock, S. Tilmes, J. Wu, D. Visioni, L. Xia, and C.-E. Yang, 2020: Potential ecological impacts of climate intervention by reflecting sunlight to cool the Earth. In review, Proc. Nat. Acad. Sci.
+Zarnetske, P.L., J. Gurevitch, J. Franklin, P. Groffman, C. Harrison, J. Hellmann, F. Hoffman, S. Kothari, A. Robock, S. Tilmes, J. Wu, D. Visioni, L. Xia, and C.-E. Yang, (2021): Potential ecological impacts of climate intervention by reflecting sunlight to cool the Earth. In review, Proc. Nat. Acad. Sci.
 
-S. Tilmes, D.E. MacMartin, J.T.M. Lenaerts, L. van Kampenhout, L. Muntjewerf, L. Xia, C.S. Harrison, K.M. Krumhardt , M.J. Mills, B. Kravitz, and A. Robock. 2020. Reaching 1.5oC and 2.0oC global surface temperature targets using stratospheric aerosol geoengineering. Earth Systems Dynamics 11:579–601, https://doi.org/10.5194/esd-11-579-2020
+S. Tilmes, D.E. MacMartin, J.T.M. Lenaerts, L. van Kampenhout, L. Muntjewerf, L. Xia, C.S. Harrison, K.M. Krumhardt , M.J. Mills, B. Kravitz, and A. Robock. (2020). Reaching 1.5<sup>o</sup>C and 2.0<sup>o</sup>C global surface temperature targets using stratospheric aerosol geoengineering. Earth Systems Dynamics 11:579–601, https://doi.org/10.5194/esd-11-579-2020
+
+Visioni, D., Slessarev, E., MacMartin, D., Mahowald, N. M., Goodale, C. L., and Xia,L. (2020), "What goes up must come down: impacts of deposition in a sulfate geoengineering scenario", Environmental Research Letters, 15(9), http://iopscience.iop.org/10.1088/1748-9326/ab94eb
+
+
 
 
