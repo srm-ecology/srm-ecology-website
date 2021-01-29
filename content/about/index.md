@@ -8,26 +8,18 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
 ---
  
-<div style="float:right">
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/f/f7/SPICE_SRM_overview.jpg" caption="Proposed solar radiation modification using a tethered balloon to inject sulfate aerosols into the stratosphere." align="right"  width="400" attr="CC BY-SA 3.0" attrlink="https://commons.wikimedia.org/wiki/File:SPICE_SRM_overview.jpg">}}
 
-<div>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/f/f7/SPICE_SRM_overview.jpg" caption="Proposed solar radiation modification using a tethered balloon to inject sulfate aerosols into the stratosphere." align="right"  width="400" attr="CC BY-SA 3.0" attrlink="https://commons.wikimedia.org/wiki/File:SPICE_SRM_overview.jpg">}}
 
 Geoengineering is a set of proposed activities deliberately designed to counter the impacts of environmental change resulting from global warming. It has received increasing attention in the face of failure to limit the inputs of greenhouse gases to the atmosphere. 
 
 These ideas are highly controversial among both scientists and the general public. Nevertheless, many schemes for geoengineering have been proposed and some have been extensively studied using complex climate models: these are usually divided between activities aimed at reducing the amount of carbon dioxide in the atmosphere (Carbon Dioxide Removal, CDR) and activities aimed at partially reducing the amount of incoming solar radiation at the surface by increasing the albedo (reflectivity) of the Earth-atmosphere system in order to temporarily cool the planet (Solar Radiation Modification, SRM). This could be done in various ways, such as injecting sulfate precursors in the stratosphere (like volcanoes do) or increasing the condensation nuclei in the marine boundary layer (like ship tracks do).
 This geoengineering option presents both known and unknown risks to the natural living world. Yet almost nothing is known about the potential impacts of implementation, continuation or termination on natural systems, their functions, and their biodiversity. 
 
-<div style="float:right">
-{{< figure src='/static/media/SRM_sketch_v2.jpg' caption="Simplified diagrams exploring how geoengineering techniques could be deployed, and what impacts that would have on ecosystems. A) Without mitigation, stratospheric aerosol injections (SAI) may cool the planet down to a certain temperature target, but large ecosystemic impacts may be  expected. B) In the context of heavy mitigation through emission reduction and CDR, SAI may help reach some temperature targets with less ecosystemic impacts. Adapted form Zarnetske et al. (2021)">}}
 
-<div>
+{{< figure library="true" src="SRM_sketch_v2.jpg" caption="Simplified diagrams exploring how geoengineering techniques could be deployed, and what impacts that would have on ecosystems. A) Without mitigation, stratospheric aerosol injections (SAI) may cool the planet down to a certain temperature target, but large ecosystemic impacts may be  expected. B) In the context of heavy mitigation through emission reduction and CDR, SAI may help reach some temperature targets with less ecosystemic impacts. Adapted form Zarnetske et al. (2021)">}}
 
 The goal of this workshop and its working group is to develop a research agenda to understand and predict how the biodiversity and functioning of natural systems would be affected by solar radiation modification. Members will develop information to inform policy and public discussion, provide knowledge to incorporate into teaching and outreach, and engage a diverse audience in discussions on the response of living systems to solar radiation modification geoengineering.
 
