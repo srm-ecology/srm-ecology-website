@@ -19,20 +19,18 @@ header:
 
 <div>
 
-Geoengineering is a set of activities deliberately designed to counter the impacts of environmental change. It has received increasing attention in the face of failure to limit inputs of greenhouse gases to the atmosphere. 
+Geoengineering is a set of proposed activities deliberately designed to counter the impacts of environmental change resulting from global warming. It has received increasing attention in the face of failure to limit the inputs of greenhouse gases to the atmosphere. 
 
-These ideas are highly controversial among both scientists and the general public. Nevertheless, many schemes for geoengineering have been proposed and some have been extensively studied using complex climate models. The best-studied scheme for geoengineering is solar radiation management (SRM), which would cool Earth's surface by increasing the albedo (reflectivity) of the Earth-atmosphere system, reducing incoming solar radiation. This geoengineering management option presents both known and unknown risks to the natural living world. Yet almost nothing is known about the potential impacts of implementation, continuation or termination on natural systems, their functions, and their biodiversity. 
+These ideas are highly controversial among both scientists and the general public. Nevertheless, many schemes for geoengineering have been proposed and some have been extensively studied using complex climate models: these are usually divided between activities aimed at reducing the amount of carbon dioxide in the atmosphere (Carbon Dioxide Removal, CDR) and activities aimed at partially reducing the amount of incoming solar radiation at the surface by increasing the albedo (reflectivity) of the Earth-atmosphere system in order to temporarily cool the planet (Solar Radiation Modification, SRM). This could be done in various ways, such as injecting sulfate precursors in the stratosphere (like volcanoes do) or increasing the condensation nuclei in the marine boundary layer (like ship tracks do).
+This geoengineering option presents both known and unknown risks to the natural living world. Yet almost nothing is known about the potential impacts of implementation, continuation or termination on natural systems, their functions, and their biodiversity. 
 
 The goal of this workshop and its working group is to develop a research agenda to understand and predict how the biodiversity and functioning of natural systems would be affected by solar radiation management. Members will develop information to inform policy and public discussion, provide knowledge to incorporate into teaching and outreach, and engage a diverse audience in discussions on the response of living systems to solar radiation management geoengineering.
-
-
 
   * [Geoengineering Model Intercomparison Project - GeoMIP](http://climate.envsci.rutgers.edu/GeoMIP/)
   * [Stratospheric Aerosol Geoengineering Large Ensemble Project - GLENS](http://www.cesm.ucar.edu/projects/community-projects/GLENS/)
   * [Rutgers Impact Studies of Climate Intervention (RISCI) lab](https://sites.rutgers.edu/risci-lab/)
   * [NCAR Community Climate Intervention Strategies (CCIS)](https://www.ccis.ucar.edu/)
   * [Gordon Conference on Climate Engineering](https://www.grc.org/climate-engineering-conference/2022/)
-
 
 
 References
