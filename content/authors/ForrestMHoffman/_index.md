@@ -6,16 +6,17 @@ title: Forrest M. Hoffman
 superuser: false
 
 # Role/position
-role:  Distinguished Computational Earth System Scientist
+role:  
 
 # Organizations/Affiliations
 organizations:
 - name: Computational Earth Sciences Group, Oak Ridge National Laboratory
   url: "https://www.ornl.gov/"
-
+- name: Department of Civil and Environmental Engineering, University of Tennessee
+  url: "https://cee.utk.edu/"
 # Short bio (displayed in user profile at end of posts)
-bio: 
-# interests
+bio: I am an Earth system scientist interested in global biogeochemical cycles and their interactions with the Earth system
+
 
 interests:
 - Global biogeochemistry 
@@ -26,9 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD
+  - course: PhD, Earth System Science
     institution: University of California Irvine
-    year: 
+    year: 2015
+  - course: MS, Earth System Science (2012) and MS, Physics (2004)
+    institution: University of California Irvine (2012) and University of Tennessee Knoxville (2004)
+    year: 2012 and 2004
+  - course: BS, Physics
+    institution: University of Tennessee Knoxville
+    year: 1991
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Members
 ---
 
 Forrest is a Distinguished Computational Earth System Scientist and the Group Leader for the Computational Earth Sciences Group at Oak Ridge National Laboratory (ORNL). As a resident researcher in ORNL’s Climate Change Science Institute (CCSI) and a member of ORNL’s Computational Sciences & Engineering Division (CSED), Forrest develops and applies Earth system models (ESMs) to investigate the global carbon cycle and feedbacks between biogeochemical cycles and the climate system. He applies data mining methods using high performance computing to problems in landscape ecology, ecosystem modeling, remote sensing, and large-scale climate data analytics. He is particularly interested in terrestrial and marine ecosystem responses to geoengineering and other climate intervention strategies. Forrest is also a Joint Faculty Member in the University of Tennessee’s Department of Civil & Environmental Engineering in nearby Knoxville, Tennessee.

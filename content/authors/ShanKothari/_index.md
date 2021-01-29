@@ -6,16 +6,16 @@ title: Shan Kothari
 superuser: false
 
 # Role/position
-role:  Postdoctoral scientist
+role:  
 
 # Organizations/Affiliations
 organizations:
-- name: Institut de recherche en biologie végétale, l'Université de Montréal
+- name: Institut de recherche en biologie végétale, Université de Montréal
   url: "https://www.irbv.umontreal.ca/?lang=en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-# interests
+bio: I am a plant physiological ecologist who studies the interactions between plant communities and their environment
+
 
 interests:
 - Plant physiological ecology 
@@ -26,9 +26,12 @@ interests:
 
 education:
   courses:
-  - course: PhD
+  - course: PhD, Plant and Microbial Biology
     institution: University of Minnesota
-    year: 
+    year: 2020
+  - course: BS, Zoology and BS, Anthropology
+    institution: Michigan State University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Post-doctoral Researchers"
+- Members
 ---
 
-Shan is a postdoctoral researcher in plant functional ecology in the lab of Dr. Etienne Laliberté at the Institut de recherche en biologie végétale, a joint institute run of the Montreal Botanical Garden and L’Université de Montréal. In 2020, he finished his PhD under Jeannine Cavender-Bares at University of Minnesota as an NSF Graduate Research Fellow. Shan’s research concerns the role of light limitation and light excess in the structure and physiological function of terrestrial plant communities. He is particularly interested in using reflectance spectroscopy as a tool to describe and monitor the dimensions of plant and ecosystem function in a changing world.
+Shan is a postdoctoral researcher in plant functional ecology in the lab of Dr. Etienne Laliberté at the Institut de recherche en biologie végétale, a joint institute run of the Montreal Botanical Garden and L’Université de Montréal. In 2020, he finished his PhD under Jeannine Cavender-Bares at University of Minnesota as an NSF Graduate Research Fellow. Shan’s research concerns the role of light limitation and light excess in the structure and physiological function of terrestrial plant communities. He is particularly interested in using reflectance spectroscopy as a tool to describe and monitor plant and ecosystem function in a changing world.
