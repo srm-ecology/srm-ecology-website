@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Ecological Impacts of Potential Solar Radiation Management (SRM) Working Group"
+title: "Ecological Impacts of Potential Solar Radiation Modification (SRM) Working Group"
 subtitle: ""
 hero_media: sai_ocean_effects.jpg
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-This website highlights collaborative and interdisciplinary research from members of a National Science Foundation funded [Workshop on ecological impacts of solar radiation management (SRM) geoengineering](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937699&HistoricalAwards=false). 
+This website highlights collaborative and interdisciplinary research from members of a National Science Foundation funded [Workshop on ecological impacts of solar radiation modification (SRM) geoengineering](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937699&HistoricalAwards=false). 
