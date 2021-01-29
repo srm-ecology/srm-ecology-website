@@ -25,7 +25,7 @@ These ideas are highly controversial among both scientists and the general publi
 This geoengineering option presents both known and unknown risks to the natural living world. Yet almost nothing is known about the potential impacts of implementation, continuation or termination on natural systems, their functions, and their biodiversity. 
 
 <div style="float:right">
-{{< img src='/static/media/SRM_sketch_v2.jpg' caption="Simplified diagrams exploring how geoengineering techniques could be deployed, and what impacts that would have on ecosystems. A) Without mitigation, stratospheric aerosol injections (SAI) may cool the planet down to a certain temperature target, but large ecosystemic impacts may be  expected. B) In the context of heavy mitigation through emission reduction and CDR, SAI may help reach some temperature targets with less ecosystemic impacts. Adapted form Zarnetske et al. (2021)">}}
+{{< figure src='/static/media/SRM_sketch_v2.jpg' caption="Simplified diagrams exploring how geoengineering techniques could be deployed, and what impacts that would have on ecosystems. A) Without mitigation, stratospheric aerosol injections (SAI) may cool the planet down to a certain temperature target, but large ecosystemic impacts may be  expected. B) In the context of heavy mitigation through emission reduction and CDR, SAI may help reach some temperature targets with less ecosystemic impacts. Adapted form Zarnetske et al. (2021)">}}
 
 <div>
 
