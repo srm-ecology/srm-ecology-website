@@ -6,16 +6,17 @@ title: Alan Robock
 superuser: false
 
 # Role/position
-role:  Distinguished Professor
+role:  
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Environmental Sciences, Rutgers University
+- name: Rutgers University
   url: "http://envsci.rutgers.edu/index.php"
-
+- name: Rutgers Impact Studies of Climate Intervention (RISCI) lab
+  url: "https://sites.rutgers.edu/risci-lab/"
 # Short bio (displayed in user profile at end of posts)
-bio: 
-# interests
+bio: I am a climate scientist, now specializing on the impacts of aerosols in the stratosphere on climate.
+
 
 interests:
 - Climate intervention (geoengineering) 
@@ -25,9 +26,15 @@ interests:
 
 education:
   courses:
-  - course: PhD
+  - course: PhD, Meteorology
     institution: MIT
-    year: 
+    year: 1977
+  - course: SM, Meteorology
+    institution: MIT
+    year: 1974
+  - course: BA, Meteorology
+    institution: Uinversity of Wisconsin, Madison
+    year: 1970
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Members
 ---
 
 Alan is a Distinguished Professor of climate science in the Department of Environmental Sciences at Rutgers University. He graduated from the University of Wisconsin, Madison, in 1970 with a B.A. in Meteorology, and from the Massachusetts Institute of Technology with an S.M. in 1974 and Ph.D. in 1977, both in Meteorology. Before graduate school, he served as a Peace Corps Volunteer in the Philippines. He was a professor at the University of Maryland, 1977-1997, and the State Climatologist of Maryland, 1991-1997, before coming to Rutgers in 1998. Prof. Robock has published more than 400 articles on his research in the area of climate change, including more than 260 peer-reviewed papers. His areas of expertise include climate intervention (also called geoengineering), climatic effects of nuclear war, and effects of volcanic eruptions on climate. He serves as Associate Editor of Reviews of Geophysics, the most highly-cited journal in the Earth Sciences. His honors include being a Fellow of the American Geophysical Union, the American Meteorological Society (AMS), and the American Association for the Advancement of Science, and a recipient of the AMS Jule Charney Award. Prof. Robock was a Lead Author of the most recent Fifth Assessment Report of the Intergovernmental Panel on Climate Change (awarded the Nobel Peace Prize in 2007). In 2017 the International Campaign to Abolish Nuclear Weapons was awarded the Nobel Peace Prize for “for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its groundbreaking efforts to achieve a treaty-based prohibition of such weapons” based partly on the work of Prof. Robock.
