@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-Please contact us if you would like more informatuon about our research.  
+Please contact us if you would like more information about our research.  

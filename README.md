@@ -2,7 +2,7 @@
 
 Status: DRAFT
 
-This is the code for creating the website for the srm-ecology working group.   The draft is currently hosted on https://crm-ecology.netlify.com
+This is the code for creating the website for the srm-ecology working group.   The draft is currently hosted on https://srm-ecology.netlify.com
 
 ## Content and contributing
 
