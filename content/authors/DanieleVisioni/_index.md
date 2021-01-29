@@ -19,7 +19,7 @@ bio:
 
 interests:
 - Composition of the stratosphere 
-- Climage Change 
+- Climate Change 
 - Ozone 
 - Geoengineering 
 

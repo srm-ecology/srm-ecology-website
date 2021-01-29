@@ -24,6 +24,11 @@ Geoengineering is a set of proposed activities deliberately designed to counter 
 These ideas are highly controversial among both scientists and the general public. Nevertheless, many schemes for geoengineering have been proposed and some have been extensively studied using complex climate models: these are usually divided between activities aimed at reducing the amount of carbon dioxide in the atmosphere (Carbon Dioxide Removal, CDR) and activities aimed at partially reducing the amount of incoming solar radiation at the surface by increasing the albedo (reflectivity) of the Earth-atmosphere system in order to temporarily cool the planet (Solar Radiation Modification, SRM). This could be done in various ways, such as injecting sulfate precursors in the stratosphere (like volcanoes do) or increasing the condensation nuclei in the marine boundary layer (like ship tracks do).
 This geoengineering option presents both known and unknown risks to the natural living world. Yet almost nothing is known about the potential impacts of implementation, continuation or termination on natural systems, their functions, and their biodiversity. 
 
+<div style="float:right">
+{{< figure src="/images/SRM_sketch_v2.jpg" caption="Simplified diagrams exploring how geoengineering techniques could be deployed, and what impacts that would have on ecosystems. Adapted form Zarnetske et al. (2021)">}}
+
+<div>
+
 The goal of this workshop and its working group is to develop a research agenda to understand and predict how the biodiversity and functioning of natural systems would be affected by solar radiation modification. Members will develop information to inform policy and public discussion, provide knowledge to incorporate into teaching and outreach, and engage a diverse audience in discussions on the response of living systems to solar radiation modification geoengineering.
 
   * [Geoengineering Model Intercomparison Project - GeoMIP](http://climate.envsci.rutgers.edu/GeoMIP/)
