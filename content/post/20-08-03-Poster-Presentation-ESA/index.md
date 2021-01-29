@@ -7,7 +7,7 @@ image:
   caption: ""
   focal_point: "Center"
   preview_only: false
-  alt_text: Poster presentation describing the impacts solar radiation modification, and the  SRM-Ecology working group
+  alt_text: Poster presentation describing the impacts solar radiation modification, and the SRM-Ecology working group
 ---
 
 Members of our group contributed to research poster presentation for the 2020 Ecological Society of America meeting. 
@@ -16,7 +16,7 @@ Members of our group contributed to research poster presentation for the 2020 Ec
 
 Click the PDF button above to view/download.   
 
-Title: **‚ÄúPotential ecological impacts of climate intervention by solar radiation modification‚Äù.** 
+Title: **Potential ecological impacts of climate intervention by solar radiation modificationÄù.** 
 
 [ESA 2020 conference site](https://eco.confex.com/eco/2020/meetingapp.cgi/Paper/84864) 
 
