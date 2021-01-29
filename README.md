@@ -16,4 +16,25 @@ This site uses the "Wowchemy Research Group" Template for [Hugo](https://github.
 
 - [**Get Started**](https://wowchemy.com/templates/)
 - [View the **documentation**](https://wowchemy.com/docs/)
+- 
+## Adding images
 
+
+there are several ways to add an image to a page.  
+
+to use the standard markdown image code.  Place the image in the same folder as the page (e.g. to add an image to the about page, put it in the /about folder next to the index.md file), and  ![alternative text for search engines](<imagefilename>)  e.g. if the file is `cornflakes.jpg` the code is `![plot of preferences for breakfast cereals](cornflakes.jpg)`
+
+You can also put images in the folder /static/media and use a "shortcode" from the wowchemy theme `{{< figure library="true" src="image.jpg" title="A caption" >}}`   where `library` here refers to what the theme is calling the image library in the /static/media folder. 
+
+To documentation for adding a single image from wowchemy theme is https://wowchemy.com/docs/content/writing-markdown-latex/#single-image
+
+You can also add images as a 'header' image that is above the title fills the horizontal space (use only for very narrow images). In the front matter, add something like
+
+```
+# # Optional header image (relative to `static/media/` folder).
+header:
+   caption: "Great Barrier reef"
+   image: "gbr.jpg"
+```
+
+and put the image (`gbr.jpg` in this case) in the same folder as the page.   
