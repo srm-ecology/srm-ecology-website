@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Ecological Impacts of Potential Solar Radiation Modification (SRM) Working Group"
+title: "Investigating potential ecological impacts of climate intervention by reflecting sunlight to cool Earth"
 subtitle: ""
 hero_media: SRM-Ecology-Effects-Diagram-web.jpg
 design:
