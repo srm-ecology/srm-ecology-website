@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Phoebe Zarnetske
+title: " Phoebe Zarnetske"
 
 # Is this the primary user of the site?
 superuser: false
