@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Ecological Impacts of Potential Solar Radiation Modification (SRM) Working Group"
 subtitle: ""
-hero_media: sai_ocean_effects.jpg
+hero_media: SRM-Ecology-Effects-Diagram-web.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
