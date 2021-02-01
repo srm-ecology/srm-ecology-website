@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- Group Members
 ---
 
 Cheng-En is a postdoctoral research associate in the Air Quality Engineering and Cliamte Studies Research Group led by Dr. Joshua Fu at the University of Tennessee. He earned his Ph.D. degree in Civil Engineering at the University of Tennessee in 2019, with an Interdisciplinary Graduate Minor in Computational Science. He also holds a M.S. degree in Marine and Atmospheric Science from the Stony Brook University, a M.S degree and a B.S. degree in Atmospheric Sciences from National Taiwan University. Cheng-En’s research focuses on the atmosphere-land interactions, global carbon cycle and feedbacks of ecosystem to climate change, and willdfire impacts on air pollution. He is particularly interested in the responses and feedbacks between climate, fire, and ecosystems under different climate intervention strategies applied.

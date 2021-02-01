@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- Group Members
 ---
 
 Forrest is a Distinguished Computational Earth System Scientist and the Group Leader for the Computational Earth Sciences Group at Oak Ridge National Laboratory (ORNL). As a resident researcher in ORNL’s Climate Change Science Institute (CCSI) and a member of ORNL’s Computational Sciences & Engineering Division (CSED), Forrest develops and applies Earth system models (ESMs) to investigate the global carbon cycle and feedbacks between biogeochemical cycles and the climate system. He applies data mining methods using high performance computing to problems in landscape ecology, ecosystem modeling, remote sensing, and large-scale climate data analytics. He is particularly interested in terrestrial and marine ecosystem responses to geoengineering and other climate intervention strategies. Forrest is also a Joint Faculty Member in the University of Tennessee’s Department of Civil & Environmental Engineering in nearby Knoxville, Tennessee.

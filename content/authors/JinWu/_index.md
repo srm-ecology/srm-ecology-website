@@ -56,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- Group Members
 ---
 
 Jin is a broadly trained ecosystem ecologist in the School of Biological Sciences at the University of Hong Kong. His research seeks to understand the fundamental mechanisms that regulate the structure, composition and function of terrestrial ecosystems. In particular, he is interested in how the abiotic environment mediates plant form, structure and function at finer scales, and how this "scales up" to influence high-level ecological patterns and processes. His approach is to develop state-of-the-art technology to enable accurate monitoring of plant form, structure and function on the one hand, and to use novel observations to help inform the fundamental mechanisms that link abiotic environment, species composition and ecosystem processes on the other hand. His research is thus interdisciplinary, which draws upon various fields including field ecology, ecosystem ecology, plant physiology ecology, climate science, vegetation spectroscopy and earth system science.

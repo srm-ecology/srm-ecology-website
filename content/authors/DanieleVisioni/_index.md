@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- Group Members
 ---
 
 Daniele is a Postdoctoral Researcher at Cornell University in the Sibley School of Mechanical and Aerospace Engineering. He graduated from the University of L'Aquila, in Italy, in 2018, with a M.S. in Atmospheric Physics and a Ph.D in Atmospheric Physics and Chemistry.  His main area of expertise is the behavior of stratospheric aerosols and how they interact with atmospheric chemistry and with the surface climate, but has also worked on stratospheric ozone depletion. His research is currently focused on sulfate geoengineering. He is co-chair of the Geoengineering Model Intercomparison Project (GeoMIP).

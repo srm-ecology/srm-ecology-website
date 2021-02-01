@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- Group Members
 ---
 
 Dr. Franklin studies the patterns and dynamics of terrestrial (land) plant communities at the landscape scale. Her work addresses the impacts of human-caused landscape change on the environment. Human land use -- agriculture and urbanization -- and other large-scale human impacts such as climate change, and the introduction of exotic species, often interact with natural disturbance regimes such as fire, flooding and hurricanes, to shape plant community dynamics in forests, shrublands, and other ecosystems. How resilient are ecological communities to these past, present and future impacts? She is a Member of the National Academy of Sciences, USA, and a Fellow of the American Association for the Advancement of Science, the American Academy of Arts and Sciences, and the Ecological Society of America. She is an Associate Member of the Centre for Coastal Paleoscience, Nelson Mandela University, South Africa. She has published over 150 refereed journal articles and has received research grants from NSF, NASA, the USDA Forest Service, and USGS. Her book Mapping Species Distributions: Spatial Inference and Prediction (Cambridge University Press) has been cited over 2500 times

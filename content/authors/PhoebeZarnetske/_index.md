@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- Principle Investigators
 ---
 
 Phoebe is a spatial and community ecologist in the Department of Integrative Biology at Michigan State University. She also holds an adjunct appointment in the Department of Plant Biology and am affiliated with the Ecology, Evolutionary Biology, and Behavior (EEBB) Program, Environmental Science and Policy Program (ESPP), and Kellogg Biological Station (KBS) LTER. She initiated the MSU Spatial Ecology Graduate Certificate Program. Phoebe's research program uses a combination of observational data, experiments, and modeling to connect observed patterns of biodiversity and community composition with underlying mechanisms. Specifically, she is interested in how the composition and geographic distribution of species and ecological communities are affected by biotic interactions, species invasions, biophysical feedbacks, geodiversity, climate change, and land use change. A central goal of her research program is to understand which species and ecological communities are most sensitive and/or resilient to climate change. In turn, some of these species may act as 'biotic multipliers' of climate change through their outsized impacts on other species, ecological communities, and ecosystem functions. Her research is often interdisciplinary, with collaborators in remote sensing, climate science, geomorphology, mathematics, statistics, and engineering.
