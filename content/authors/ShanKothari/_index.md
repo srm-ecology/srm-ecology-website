@@ -18,10 +18,10 @@ bio: I am a plant physiological ecologist who studies the interactions between p
 
 
 interests:
-- plant physiological ecology 
-- biotic interactions 
-- photosynthesis 
-- remote sensing 
+- Plant physiological ecology 
+- Biotic interactions 
+- Photosynthesis 
+- Remote sensing 
 
 
 education:
