@@ -7,7 +7,7 @@ event_url: https://meetings.aaas.org
 location: Virtual
 
 
-summary: Session Ecosystem Responses to Geoengineering 2021 AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE meeting.
+summary: Session: Biosphere Responses to Geoengineering at the 2021 AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE (AAAS) meeting.
 
 
 # Talk start and end times.
@@ -19,7 +19,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-02-01T00:00:00Z"
 
-authors: [ForrestHoffman,ChengEnYang,PhoebeZarnetske,CherylHarrison]
+authors: [ForrestMHoffman,ChengEnYang,PhoebeZarnetske,CherylSHarrison]
 tags: [conference]
 
 # Is this a featured talk? (true/false)
