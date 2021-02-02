@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principle Investigators
+- Principal Investigators
 ---
 
 Jessica Gurevitch is a Distinguished Professor in the Department of Ecology and Evolution at Stony Brook University, and a Fellow of the American Association for the Advancement of Science and of the Ecological Society of America. She is Past-President of the Society for Research Synthesis Methodology and currently Secretary of the Ecological Society of America. Her work has appeared in many scientific journals and is highly cited, and she has co-authored a major college textbook in her field, The Ecology of Plants, that is used in many universities in the U.S. and globally. Her research interests are broadly in plant ecology and statistical applications in ecology. She has worked on the problem of understanding the ecological implications of geoengineering ever since meeting Alan Robock several years ago at a AAAS meeting, where they instantly struck up a collaboration that has expanded to include many other climate scientists and ecologists. We hope to reach many more and to draw attention to the compelling issues involved in the potential effects of climate intervention on natural systems. Her other recent work includes plant demography at a range of spatial scales and in disturbed environments, the ecology of biological invasions, and research synthesis and meta-analysis in ecology. She is proud of teaching in a university that has distinguished itself as one of the most successful in the U.S. in bringing students from low income backgrounds into the middle class and beyond.
