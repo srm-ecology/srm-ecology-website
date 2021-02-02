@@ -19,7 +19,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-02-01T00:00:00Z"
 
-authors: [ForrestHoffman,ChengEnYang,PhoebeZarnetske,CherylHarrison,LiliXia]
+authors: [ForrestHoffman,ChengEnYang,PhoebeZarnetske,CherylHarrison]
 tags: [conference]
 
 # Is this a featured talk? (true/false)
