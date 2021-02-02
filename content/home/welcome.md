@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Investigating potential ecological impacts of climate intervention by reflecting sunlight to cool Earth"
 subtitle: ""
-hero_media: # put the filename as it appears in /static/media e.g., SRM-Ecology-Effects-Diagram-web.jpg
+hero_media: maps_phoebe.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
