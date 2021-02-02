@@ -16,7 +16,7 @@ Members of our group contributed to research poster presentation for the 2020 Ec
 
 Click the PDF button above to view/download.   
 
-Title: **Potential ecological impacts of climate intervention by solar radiation modificationÄù.** 
+Title: **Potential ecological impacts of climate intervention by solar radiation modification.** 
 
 [ESA 2020 conference site](https://eco.confex.com/eco/2020/meetingapp.cgi/Paper/84864) 
 
