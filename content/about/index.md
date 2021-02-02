@@ -33,7 +33,7 @@ The goal of this workshop and its working group is to develop a research agenda 
 References
 ---
 
-Zarnetske, P.L., J. Gurevitch, J. Franklin, P. Groffman, C. Harrison, J. Hellmann, F. Hoffman, S. Kothari, A. Robock, S. Tilmes, J. Wu, D. Visioni, L. Xia, and C.-E. Yang, (2021): Potential ecological impacts of climate intervention by reflecting sunlight to cool the Earth. In review, Proc. Nat. Acad. Sci.
+Zarnetske, P.L., J. Gurevitch, J. Franklin, P. Groffman, C. Harrison, J. Hellmann, F. Hoffman, S. Kothari, A. Robock, S. Tilmes, J. Wu, D. Visioni, L. Xia, and C.-E. Yang, (2021): Potential ecological impacts of climate intervention by reflecting sunlight to cool Earth. Accepted Proc. Nat. Acad. Sci.
 
 S. Tilmes, D.E. MacMartin, J.T.M. Lenaerts, L. van Kampenhout, L. Muntjewerf, L. Xia, C.S. Harrison, K.M. Krumhardt , M.J. Mills, B. Kravitz, and A. Robock. (2020). Reaching 1.5<sup>o</sup>C and 2.0<sup>o</sup>C global surface temperature targets using stratospheric aerosol geoengineering. Earth Systems Dynamics 11:579–601, https://doi.org/10.5194/esd-11-579-2020
 
