@@ -19,7 +19,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-02-01T00:00:00Z"
 
-authors: [PhoebeZarnetske,AlanRobock,ChengEnYang]
+authors: [ForrestHoffman,ChengEnYang,PhoebeZarnetske,CherylHarrison,LiliXia]
 tags: [conference]
 
 # Is this a featured talk? (true/false)
@@ -38,7 +38,7 @@ url_video: ""
 ---
 As part of the AAS Virtual Conference Feb 8-11
 
-**Session title**: *["Ecosystem Responses to Geoengineering"](https://aaas.confex.com/aaas/2021/meetingapp.cgi/Session/27417)* 
+**Session title**: *["Biosphere Responses to Geoengineering"](https://aaas.confex.com/aaas/2021/meetingapp.cgi/Session/27417)* 
 
 **Co-organizers**: Forrest Hoffman, Cheng-En Yang; **Moderator**: Phoebe Zarnetske
 
