@@ -1,3 +1,4 @@
+
 ---
 # Display name
 title: Daniele Visioni
@@ -28,7 +29,7 @@ education:
   courses:
   - course: PhD
     institution: University of L'Aquila (Italy)
-    year: 2019
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

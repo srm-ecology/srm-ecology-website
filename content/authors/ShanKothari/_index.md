@@ -1,3 +1,4 @@
+
 ---
 # Display name
 title: Shan Kothari
@@ -67,4 +68,4 @@ user_groups:
 - Group Members
 ---
 
-Shan is a postdoctoral researcher in plant functional ecology in the lab of Dr. Etienne Laliberté at the Institut de recherche en biologie végétale, a joint institute run of the Montreal Botanical Garden and L’Université de Montréal. In 2020, he finished his PhD under Jeannine Cavender-Bares at University of Minnesota as an NSF Graduate Research Fellow. Shan’s research concerns the role of light limitation and light excess in the structure and physiological function of terrestrial plant communities. He is particularly interested in using reflectance spectroscopy as a tool to describe and monitor plant and ecosystem function in a changing world.
+Shan is a postdoctoral researcher in plant functional ecology in the lab of Dr. Etienne Laliberté at the Institut de recherche en biologie végétale, a joint institute run of the Montreal Botanical Garden and Université de Montréal. In 2020, he finished his PhD under Jeannine Cavender-Bares at University of Minnesota as an NSF Graduate Research Fellow. Shan’s research concerns the role of light limitation and light excess in the structure and physiological function of terrestrial plant communities. He is particularly interested in using reflectance spectroscopy as a tool to describe and monitor plant and ecosystem function in a changing world.
