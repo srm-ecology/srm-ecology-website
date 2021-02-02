@@ -49,6 +49,3 @@ As part of the AAS Virtual Conference Feb 8-11, 20201  *[Conference Website](htt
 
 **Respondents**: Ken Caldeira, Precious Mongwe, Christopher Trisos
 
-February 10, 2021
-
-12:00 PM - 12:45 PM EST
