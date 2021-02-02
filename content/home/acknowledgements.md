@@ -32,7 +32,7 @@ design:
 
 Acknowledgments
 ---
-This research is funded by the [National Science Foundation](https://nsf.gov):  [2019-2021]; Award numbers 1937619 (PI: J. Gurevitch), 1937699 (PI: P. Zarnetske).
+This research is funded by the [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937699&HistoricalAwards=false):  [2019-2021]; Award numbers 1937619 (PI: J. Gurevitch), 1937699 (PI: P. Zarnetske).
 
 We thank the Computational and Information Systems Lab at the National Center for Atmospheric Research, Michigan State University, and Stony Brook University for facilitating this research.
 
