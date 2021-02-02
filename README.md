@@ -1,8 +1,8 @@
 # SRM-Ecology website
 
-Status: DRAFT
+Status: DRAFT and not for dissemination
 
-This is the code for creating the website for the srm-ecology working group.   The draft is currently hosted on https://srm-ecology.netlify.com
+This is the code for creating the website for the srm-ecology working group.   The draft is currently hosted on https://www.climateinterventionbiology.org/
 
 ## Content and contributing
 
@@ -12,13 +12,28 @@ Additionally/alternatively, materials may be uploaded to our google drive folder
 
 ## Site Technology 
 
-This site uses the "Wowchemy Research Group" Template for [Hugo](https://github.com/gohugoio/hugo)
+This site uses the "Wowchemy Research Group" Template for Hugo 
+- hugo static site generator https://gohugo.io/
+- [Get Started with wowchemy](https://wowchemy.com/templates/)
+- the site is published via "https://netlify.com" automatically after this repository is changed. 
 
-- [**Get Started**](https://wowchemy.com/templates/)
-- [View the **documentation**](https://wowchemy.com/docs/)
-- 
+## editing on github
+
+if you have permission you may edit files directly in this repository.   If you don't you may fork and make a pull request.  
+
+
+## local development
+
+ - install Hugo (see site above)
+ - clone this repository
+ - hugo has a 'server' to run a local version  (command line `hugo serve` ) 
+ - edit the sites pages and confirm the render with hugo on your own computer by browsing to http://localhost:1313/
+ - use git to commit your changes
+ - `git push` and the site will be updated by Netlify (if the changes render ok)
+ 
+ See the hugo and wowchemy docs and tutorials for much more info. 
+ 
 ## Adding images
-
 
 there are several ways to add an image to a page.  
 
@@ -37,4 +52,9 @@ header:
    image: "gbr.jpg"
 ```
 
-and put the image (`gbr.jpg` in this case) in the same folder as the page.   
+and put the image (`gbr.jpg` in this case) in the same folder as the page.  
+
+## Adding publications
+
+see https://wowchemy.com/docs/content/publications/
+
