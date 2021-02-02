@@ -18,3 +18,5 @@ advanced:
 ---
 
 This website highlights collaborative and interdisciplinary research from members of a National Science Foundation funded [Workshop on ecological impacts of solar radiation modification (SRM) geoengineering](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937699&HistoricalAwards=false). 
+
+{{< figure library="true" src="maps_phoebe.png" caption="">}}
