@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Investigating potential ecological impacts of climate intervention by reflecting sunlight to cool Earth"
 subtitle: ""
-hero_media: maps_phoebe.png
+hero_media: maps_projected_global_surface_temp_precip.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
