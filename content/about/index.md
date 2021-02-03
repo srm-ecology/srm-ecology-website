@@ -18,9 +18,6 @@ Geoengineering is a set of proposed activities deliberately designed to counter 
 These ideas are highly controversial among both scientists and the general public. Nevertheless, many schemes for geoengineering have been proposed and some have been extensively studied using complex climate models: these are usually divided between activities aimed at reducing the amount of carbon dioxide in the atmosphere (Carbon Dioxide Removal, CDR) and activities aimed at partially reducing the amount of incoming solar radiation at the surface by increasing the albedo (reflectivity) of the Earth-atmosphere system in order to temporarily cool the planet (Solar Radiation Modification, SRM). This could be done in various ways, such as injecting sulfate precursors in the stratosphere (like volcanoes do) or increasing the condensation nuclei in the marine boundary layer (like ship tracks do).
 This geoengineering option presents both known and unknown risks to the natural living world. Yet almost nothing is known about the potential impacts of implementation, continuation or termination on natural systems, their functions, and their biodiversity. 
 
-
-{{< figure library="true" src="SRM_sketch_v2.jpg" caption="Simplified diagrams exploring how geoengineering techniques could be deployed, and what impacts that would have on ecosystems. A) Without mitigation, stratospheric aerosol injections (SAI) may cool the planet down to a certain temperature target, but large ecosystemic impacts may be  expected. B) In the context of heavy mitigation through emission reduction and CDR, SAI may help reach some temperature targets with less ecosystemic impacts. Adapted form Zarnetske et al. (2021)">}}
-
 The goal of this workshop and its working group is to develop a research agenda to understand and predict how the biodiversity and functioning of natural systems would be affected by solar radiation modification. Members will develop information to inform policy and public discussion, provide knowledge to incorporate into teaching and outreach, and engage a diverse audience in discussions on the response of living systems to solar radiation modification geoengineering.
 
   * [Geoengineering Model Intercomparison Project - GeoMIP](http://climate.envsci.rutgers.edu/GeoMIP/)
@@ -33,7 +30,7 @@ The goal of this workshop and its working group is to develop a research agenda 
 References
 ---
 
-Zarnetske, P.L., J. Gurevitch, J. Franklin, P. Groffman, C. Harrison, J. Hellmann, F. Hoffman, S. Kothari, A. Robock, S. Tilmes, J. Wu, D. Visioni, L. Xia, and C.-E. Yang, (2021): Potential ecological impacts of climate intervention by reflecting sunlight to cool Earth. Accepted Proc. Nat. Acad. Sci.
+Zarnetske, P.L., J. Gurevitch, J. Franklin, P. Groffman, C. Harrison, J. Hellmann, F. Hoffman, S. Kothari, A. Robock, S. Tilmes, J. Wu, D. Visioni, L. Xia, and C.-E. Yang, (Accepted): Potential ecological impacts of climate intervention by reflecting sunlight to cool Earth. Proc. Nat. Acad. Sci.
 
 S. Tilmes, D.E. MacMartin, J.T.M. Lenaerts, L. van Kampenhout, L. Muntjewerf, L. Xia, C.S. Harrison, K.M. Krumhardt , M.J. Mills, B. Kravitz, and A. Robock. (2020). Reaching 1.5<sup>o</sup>C and 2.0<sup>o</sup>C global surface temperature targets using stratospheric aerosol geoengineering. Earth Systems Dynamics 11:579–601, https://doi.org/10.5194/esd-11-579-2020
 
