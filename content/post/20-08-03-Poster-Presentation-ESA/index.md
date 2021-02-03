@@ -1,5 +1,5 @@
 ---
-title: Poster presentation
+title: Poster presentation at 2020 Ecological Society of America Meeting
 date: 2020-08-03
 
 image:
