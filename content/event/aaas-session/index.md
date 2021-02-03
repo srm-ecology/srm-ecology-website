@@ -36,7 +36,7 @@ url_video: ""
 
 
 ---
-As part of the AAS Virtual Conference Feb 8-11, 20201  *[Conference Website](https://meetings.aaas.org/)*
+As part of the AAAS Virtual Conference Feb 8-11, 20201  *[Conference Website](https://meetings.aaas.org/)*
 
 
 **Session title**: *["Biosphere Responses to Geoengineering"](https://aaas.confex.com/aaas/2021/meetingapp.cgi/Session/27417)* 
