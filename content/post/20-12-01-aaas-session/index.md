@@ -13,10 +13,10 @@ Up coming session for 2021 AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE c
 <!--more-->
 
 
-Session title: *["Ecosystem Responses to Geoengineering"](https://aaas.confex.com/aaas/2021/meetingapp.cgi/Session/27417)*, Wednesday, February 10, 2021
+Session title: *["Biosphere Responses to Geoengineering"](https://aaas.confex.com/aaas/2021/meetingapp.cgi/Session/27417)*, Wednesday, February 10, 2021
 12:00 PM - 12:45 PM EST
 
 
-[More detail on this event]({{< ref "/event/aaas-session" >}} "Panel Session at AAAS")
+[More detail on this event]({{< ref "/event/aaas-session" >}} "Session at 2021 AAAS Meeting")
 
 
