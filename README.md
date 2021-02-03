@@ -1,14 +1,14 @@
 # SRM-Ecology website
 
-Status: DRAFT and not for dissemination
+Status: As of Feb 2, 2021, 9pm, the website is live.
 
-This is the code for creating the website for the srm-ecology working group.   The draft is currently hosted on https://www.climateinterventionbiology.org/
+This is the code for creating the website for the srm-ecology working group. The website is currently hosted on https://www.climateinterventionbiology.org/
 
 ## Content and contributing
 
 Content is from the work group members.  Work group members who have content to add or edits contact Phoebe Zarnetske or use the github issues. 
 
-Additionally/alternatively, materials may be uploaded to our google drive folder and doc.   Documents for editing the code are forthcoming, but group member may request access to this repository.  Once granted, clone the repository, edit and push.  chan
+Additionally/alternatively, materials may be uploaded to our google drive folder and doc.   Documents for editing the code are forthcoming, but group member may request access to this repository.  Once granted, clone the repository, edit and push.  
 
 ## Site Technology 
 
