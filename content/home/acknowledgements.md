@@ -32,7 +32,15 @@ design:
 
 Acknowledgments
 ---
-This research is funded by the [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937699&HistoricalAwards=false):  [2019-2021]; Award numbers 1937619 (PI: J. Gurevitch), 1937699 (PI: P. Zarnetske).
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/NSF.svg" align="right" alt="National Science Foundation logo" width="125" height="125">
+
+This research is funded by the [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937699&HistoricalAwards=false):  [2019-2021];
+
+[![NSF-1926567](https://img.shields.io/badge/NSF-1937619-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1937619)( PI: J. Gurevitch), 
+
+ [![NSF-1550765](https://img.shields.io/badge/Funded%20by%20NSF-1937699-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1937699)
+ (PI: P. Zarnetske).
 
 We thank the Computational and Information Systems Lab at the National Center for Atmospheric Research, Michigan State University, and Stony Brook University for facilitating this research.
 
