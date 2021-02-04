@@ -36,7 +36,7 @@ Zarnetske, P.L., J. Gurevitch, J. Franklin, P. Groffman, C. Harrison, J. Hellman
 
 S. Tilmes, D.E. MacMartin, J.T.M. Lenaerts, L. van Kampenhout, L. Muntjewerf, L. Xia, C.S. Harrison, K.M. Krumhardt , M.J. Mills, B. Kravitz, and A. Robock. (2020). Reaching 1.5<sup>o</sup>C and 2.0<sup>o</sup>C global surface temperature targets using stratospheric aerosol geoengineering. Earth Systems Dynamics 11:579–601, https://doi.org/10.5194/esd-11-579-2020
 
-Visioni, D., Slessarev, E., MacMartin, D., Mahowald, N. M., Goodale, C. L., and Xia,L. (2020), "What goes up must come down: impacts of deposition in a sulfate geoengineering scenario", Environmental Research Letters, 15(9), http://iopscience.iop.org/10.1088/1748-9326/ab94eb
+Visioni, D., Slessarev, E., MacMartin, D., Mahowald, N. M., Goodale, C. L., and Xia,L. (2020), "What goes up must come down: impacts of deposition in a sulfate geoengineering scenario", Environmental Research Letters, 15(9), https://iopscience.iop.org/article/10.1088/1748-9326/ab94eb
 
 
 
