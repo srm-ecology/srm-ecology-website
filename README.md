@@ -58,3 +58,8 @@ and put the image (`gbr.jpg` in this case) in the same folder as the page.
 
 see https://wowchemy.com/docs/content/publications/
 
+## Adding/editing people
+
+People pages are in `/content/authors/<PersonName>/_index.md` and may be edited directly.    To add a new person, copy and paste an existing person's file into a new folder under /content/authors.   The folderr naming schema of  FirstnameLastname is not special, it was just convenient.     To add a new picture, put a jpg-formatted picture file in the folder that is at most 1000px on a side, and name it `avatar.jpg`   It does not have to be square or round - Hugo will resize and make it round.   
+
+
