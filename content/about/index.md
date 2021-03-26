@@ -11,7 +11,7 @@ comments: false  # Show comments?
 ---
  
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/f/f7/SPICE_SRM_overview.jpg" caption="Proposed solar radiation modification using a tethered balloon to inject sulfate aerosols into the stratosphere." align="right"  width="400" attr="CC BY-SA 3.0" attrlink="https://commons.wikimedia.org/wiki/File:SPICE_SRM_overview.jpg">}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/f/f7/SPICE_SRM_overview.jpg" caption="Proposed solar radiation modification using a tethered balloon to inject sulfate aerosols into the stratosphere. Credit: Hughhunt, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons" align="right"  width="400" attr="CC BY-SA 3.0" attrlink="https://commons.wikimedia.org/wiki/File:SPICE_SRM_overview.jpg">}}
 
 Geoengineering is a set of proposed activities deliberately designed to counter the impacts of environmental change resulting from global warming. It has received increasing attention in the face of failure to limit the inputs of greenhouse gases to the atmosphere. 
 
