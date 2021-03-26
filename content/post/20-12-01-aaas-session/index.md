@@ -8,7 +8,7 @@ image:
   preview_only: false
   alt_text: Logo of the AAAS
 ---
-Upcoming session for the 2021 AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE (AAAS) conference
+Session for the 2021 AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE (AAAS) conference
 
 <!--more-->
 
