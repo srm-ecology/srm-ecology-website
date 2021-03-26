@@ -29,10 +29,10 @@
   weight = 40
 
 # add this back in when there are actual publications
-#[[main]]
-#  name = "Publications"
-#  url = "publication"
-#  weight = 50
+[[main]]
+  name = "Publications"
+  url = "publication"
+  weight = 50
 
 [[main]]
   name = "Contact"
