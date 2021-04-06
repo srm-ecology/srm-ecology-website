@@ -62,4 +62,30 @@ see https://wowchemy.com/docs/content/publications/
 
 People pages are in `/content/authors/<PersonName>/_index.md` and may be edited directly.    To add a new person, copy and paste an existing person's file into a new folder under /content/authors.   The folderr naming schema of  FirstnameLastname is not special, it was just convenient.     To add a new picture, put a jpg-formatted picture file in the folder that is at most 1000px on a side, and name it `avatar.jpg`   It does not have to be square or round - Hugo will resize and make it round.   
 
+## Adding 'news' item
 
+The front page has section for 'news' items which is simply a placeholder that shows the latests few blog posts.  To add news, you first add a 'post' item.   Review the "Create a blog post" intructions from Wowchemy.   From the command line/terminal you could try 
+
+```bash
+hugo new  --kind post post/my-article-name
+```
+
+To do so manually, create a new folder under content/post folder, starting with the date (in YY-MM-DD format) and then a short name. E.g. 21-04-06-pnas-paper-published
+
+Inside that folder, create a file "index.md" and an optional image 'featured.jpg' (note that I think it must be jpg format, not PNG).   see the other `index.md` files in the posts folder for an example but it must minimally have title and date items in the front matter section, and a summary below that.    If you have a featured image include the optional "image" tag.    For more info about featured imaged see [Page Features Documentation](https://wowchemy.com/docs/content/page-features/)
+
+example post page:  
+
+```
+---
+title: Session for the 2021 AAAS conference
+date: 2020-12-01
+image:
+  placement: 3
+  caption: ""
+  focal_point: "Center"
+  preview_only: false
+  alt_text: Logo of the AAAS
+---
+this is a summary of the blog post from which the site will automatically create a summary for the front page.  If you include the code <!--more--> in this article body, the site will use that as a break to determine where the summary ends.  
+```
