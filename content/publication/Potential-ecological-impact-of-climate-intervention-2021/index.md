@@ -2,7 +2,7 @@
 title: "Potential ecological impacts of climate intervention by reflecting sunlight to cool Earth"
 authors: [P. L. Zarnetske, J. Gurevitch, J. Franklin, P. Groffman, C. Harrison, J. Hellmann, F. Hoffman, S. Kothari, A. Robock, S. Tilmes, J. Wu, D. Visioni, L. Xia, and C.-E. Yang.]
 date: "2021-04-05"
-doi: ""
+doi: "10.1073/pnas.1921854118"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-03-26T09:47:37-04:00
@@ -14,7 +14,7 @@ publishDate: 2021-03-26T09:47:37-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the National Academy of Sciences"
+publication: "Proceedings of the National Academy of Sciences, no. 15 (April 13, 2021)"
 publication_short: "PNAS"
 
 abstract: ""
@@ -65,4 +65,5 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: ""
 ---
-_(in press)_  
+While climate science research has focused on the predicted climate effects of Solar radiation modification (SRM), almost no studies have investigated the impacts that SRM would have on ecological systems. The impacts and risks posed by SRM would vary by implementation scenario, anthropogenic climate effects, geographic region, and by ecosystem, community, population, and organism.
+
