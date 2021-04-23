@@ -1,6 +1,6 @@
 ---
 title: "Potential ecological impacts of climate intervention by reflecting sunlight to cool Earth"
-authors: [P. L. Zarnetske, J. Gurevitch, J. Franklin, P. Groffman, C. Harrison, J. Hellmann, F. Hoffman, S. Kothari, A. Robock, S. Tilmes, J. Wu, D. Visioni, L. Xia, and C.-E. Yang.]
+authors: [P. L. Zarnetske, J. Gurevitch, J. Franklin, P. Groffman, C. Harrison, J. Hellmann, F. Hoffman, S. Kothari, A. Robock, S. Tilmes, J. Wu, D. Visioni, L. Xia, C-E. Yang]
 date: "2021-04-05"
 doi: "10.1073/pnas.1921854118"
 

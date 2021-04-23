@@ -31,5 +31,8 @@ Our paper <span style="text-decoration: underline">[Potential Ecological Impacts
 
 Full citation: 
 
-*Zarnetske, Phoebe L., Jessica Gurevitch, Janet Franklin, Peter M. Groffman, Cheryl S. Harrison, Jessica J. Hellmann, Forrest M. Hoffman, et al. “Potential Ecological Impacts of Climate Intervention by Reflecting Sunlight to Cool Earth.” Proceedings of the National Academy of Sciences 118, no. 15 (April 13, 2021). https://doi.org/10.1073/pnas.1921854118.*
+*Zarnetske, Phoebe L., Jessica Gurevitch, Janet Franklin, Peter M. Groffman, Cheryl S. Harrison, Jessica J. Hellmann, Forrest M. Hoffman, Shan Kothari, Alan Robock, Simone Tilmes, Daniele Visioni, Jin Wu, Lili Xia, and Cheng-En Yang
+ “Potential Ecological Impacts of Climate Intervention by Reflecting Sunlight to Cool Earth.” Proceedings of the National Academy of Sciences 118, no. 15 (April 13, 2021). https://doi.org/10.1073/pnas.1921854118.*
+
+
 
