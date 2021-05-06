@@ -13,7 +13,8 @@ role:
 organizations:
 - name: Rutgers University
   url: "http://envsci.rutgers.edu/index.php"
-- name: Rutgers Impact Studies of Climate Intervention (RISCI) lab
+- name: Department of Environmental Sciences, Rutgers University
+Rutgers Impact Studies of Climate Intervention (RISCI) lab
   url: "https://sites.rutgers.edu/risci-lab/"
 # Short bio (displayed in user profile at end of posts)
 bio: I am a climate scientist, now specializing on the impacts of aerosols in the stratosphere on climate.
