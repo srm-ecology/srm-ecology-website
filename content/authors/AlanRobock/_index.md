@@ -11,10 +11,13 @@ role:
 
 # Organizations/Affiliations
 organizations:
+- name: Home page
+  url: http://people.envsci.rutgers.edu/robock/
 - name: Department of Environmental Sciences, Rutgers University
   url: "http://envsci.rutgers.edu/index.php"
 - name: Rutgers Impact Studies of Climate Intervention (RISCI) Lab
   url: "https://sites.rutgers.edu/risci-lab/"
+
 # Short bio (displayed in user profile at end of posts)
 bio: I am a climate scientist, now specializing on the impacts of aerosols in the stratosphere on climate.
 
