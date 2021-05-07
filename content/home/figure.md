@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: "Goal:" 
+title:   
 subtitle: "The goal of the **Climate Intervention Biology Working Group** is to study the potential ecological impacts and risks of solar geoengineering, and provide information on those impacts and risks. *This working group does not endorse or advocate either testing or actual implementation of geoengineering.*"
 
 design:
