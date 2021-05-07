@@ -29,7 +29,7 @@ design:
 #advanced:
 #  css_class: fullscreen
 ---
-The goal of the Climate Intervention Biology Working Group is to study the potential ecological impacts and risks of solar geoengineering, and provide information on those impacts and risks. This working group does not endorse or advocate either testing or actual implementation of geoengineering.
+subtitle: The goal of the Climate Intervention Biology Working Group is to study the potential ecological impacts and risks of solar geoengineering, and provide information on those impacts and risks. This working group does not endorse or advocate either testing or actual implementation of geoengineering.
 
 {{< figure library="true" src="SAI_temp_explanations.jpg" caption="">}}
 
