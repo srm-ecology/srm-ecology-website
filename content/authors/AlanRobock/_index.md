@@ -2,7 +2,6 @@
 ---
 # Display name
 title: Alan Robock
-  url: "http://people.envsci.rutgers.edu/robock"
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,8 +21,8 @@ bio: I am a climate scientist, now specializing on the impacts of aerosols in th
 
 interests:
 - Climate intervention (geoengineering) 
-- nuclear winter 
-- volcanic eruptions and climate 
+- Nuclear winter 
+- Volcanic eruptions and climate 
 
 
 education:
