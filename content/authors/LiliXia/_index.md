@@ -11,9 +11,9 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Rutgers University
+- name: Department of Environmental Sciences, Rutgers University
   url: "http://envsci.rutgers.edu/index.php"
-- name: Rutgers Impact Studies of Climate Intervention (RISCI) lab
+- name: Rutgers Impact Studies of Climate Intervention (RISCI) Lab
   url: "https://sites.rutgers.edu/risci-lab/"
 # Short bio (displayed in user profile at end of posts)
 bio: I am an Earth System Scientist and a climate scientist working on the interaction between vegetation/agriculture and climate system. 
