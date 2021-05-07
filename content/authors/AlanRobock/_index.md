@@ -2,7 +2,7 @@
 ---
 # Display name
 title: Alan Robock
-url: "http://people.envsci.rutgers.edu/robock"
+  url: "http://people.envsci.rutgers.edu/robock"
 
 # Is this the primary user of the site?
 superuser: false
