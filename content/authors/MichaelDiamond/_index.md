@@ -21,7 +21,7 @@ bio: I study how the interactions between clouds and small particles suspended i
 
 
 interests:
-- Climate intervention
+- Marine cloud brightening
 - Aerosol-cloud interactions
 - Earth's albedo
 
@@ -48,9 +48,9 @@ social:
   icon_pack: ai
   link: "https://scholar.google.com/citations?user=IaeCM9sAAAAJ&hl=en&inst=12445218673517910016"# Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/MD_CV_Main_20220919.pdf
+# - icon: cv
+# icon_pack: ai
+# link: files/MD_CV_Main_20220919.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: "michael.diamond@noaa.gov"
