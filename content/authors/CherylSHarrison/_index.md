@@ -11,9 +11,9 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Universithy of Texas Rio Gande Valley
-  url: "https://www.utrgv.edu/seems/"
-- name: Fisheries Model Intercomparision Project
+- name: Louisiana State University Department of Oceanography and Coastal Sciences
+  url: "https://www.lsu.edu/cce/about/cce-directories/faculty-profiles/harrison_cheryl.php"
+- name: Fisheries Model Intercomparison Project
   url: "https://www.isimip.org/about/marine-ecosystems-fisheries/"
 # Short bio (displayed in user profile at end of posts)
 bio: I am a biophysical ocean modeler studying how ocean currents and climate change affect marine organisms and biogeochemistry
@@ -21,7 +21,7 @@ bio: I am a biophysical ocean modeler studying how ocean currents and climate ch
 
 interests:
 - Ocean modeling 
-- physcial oceanography 
+- physical oceanography 
 - marine ecology 
 - fisheries 
 - marine biogeochemistry 
@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: Earth and Planetary Science
+  - course: PhD, Earth and Planetary Science
     institution: University of California Santa Cruz
     year: 2012
   - course: BA, Mathematics
@@ -72,4 +72,4 @@ user_groups:
 - Group Members
 ---
 
-Cheryl S. Harrison is an biophysical oceanographer and assistant professor in Earth, Environmental and Marine Science at the University of Texas Rio Grande Valley, a 2018 Make Our Planet Great Again fellow, and Earth system model coordinator for the Fisheries Model Intercomparison Project (FishMIP). Her research interests include physical and biogeochemical ocean modeling, applied mathematics, marine ecology, fisheries, climate change and geoengineering. 
+Cheryl S. Harrison is an biophysical oceanographer and assistant professor in the Department of Oceanography and Coastal Sciences (joint with Center for Computation and Technology) at Louisiana State University, a 2018 Make Our Planet Great Again fellow, and Earth system model coordinator for the Fisheries Model Intercomparison Project (FishMIP). Her research interests include physical and biogeochemical ocean modeling, applied mathematics, marine ecology, fisheries, climate change and geoengineering. 
