@@ -37,7 +37,7 @@ education:
     institution: MIT
     year: 1974
   - course: BA, Meteorology
-    institution: Uinversity of Wisconsin, Madison
+    institution: University of Wisconsin, Madison
     year: 1970
 
 # Social/Academic Networking

@@ -25,7 +25,7 @@ interests:
 - Wildfires 
 - Carbon cycle 
 - Geoengineering 
-- Climage change 
+- Climate change 
 - Air quality 
 
 
