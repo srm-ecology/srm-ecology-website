@@ -20,7 +20,8 @@ bio: I am a spatial and community ecologist in the Department of Integrative Bio
 
 interests:
 - Community Ecology 
-- Macrosystems Biology & Patterns of Biodiversity 
+- Macrosystems Biology 
+- Biodiversity 
 - Biotic Interactions 
 - Climate Change Ecology 
 
@@ -30,7 +31,7 @@ education:
   - course: PhD, Integrative Biology
     institution: Oregon State University
     year: 2011
-  - course: MS
+  - course: MS, Ecology
     institution: Utah State University
     year: 2006
   - course: BA, Biology-Environmental Science
