@@ -16,7 +16,7 @@ organizations:
 - name: Fisheries Model Intercomparison Project
   url: "https://www.isimip.org/about/marine-ecosystems-fisheries/"
 # Short bio (displayed in user profile at end of posts)
-bio: I have an interdisciplinary background in marine ecology, policy, and marine protected area assessment, with relevance to climate change adaptation. In a broad sense, my research focuses on the movements and behavior of highly migratory marine species across large-scale seascapes and management strategies to reduce negative impacts on threatened species.
+bio: Kelsey Roberts has an interdisciplinary background in marine ecology, policy, and marine protected area assessment, with relevance to climate change adaptation. In a broad sense, her research focuses on the movements and behavior of highly migratory marine species across large-scale seascapes and management strategies to reduce negative impacts on threatened species.
 
 
 interests:
