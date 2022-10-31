@@ -33,13 +33,10 @@ education:
   - course: PhD, Physical Oceanography
     institution: Cheikh Anta Diop University, Senegal
     year: 2019
-  - course: MS, Research in Engineering Sciences
+  - course: MS, Physics & Research in Engineering Sciences
     institution: Cheikh Anta Diop University, Senegal
-    year: 2013
-   - course: MS, Physics
-    institution: Cheikh Anta Diop University, Senegal
-    year: 2012
-   - course: BA, Physics and Chemistry
+    year: 2012, 2013
+  - course: BA, Physics and Chemistry
     institution: Cheikh Anta Diop University, Senegal
     year: 2011
 
